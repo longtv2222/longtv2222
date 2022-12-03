@@ -1,1 +1,9 @@
-# longtv2222
+
+# ⚡ Hi, I am Long Ta:
+* Software Engineering Student at University of Calgary
+* [Check out my blog!](https://longta.me/)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=longtv2222&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=longtv2222&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=longtv2222&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
