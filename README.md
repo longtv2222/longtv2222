@@ -3,5 +3,5 @@
 * Software Engineering Student at University of Calgary
 * [Check out my blog!](https://longta.me/)
 <p align="center">
-<img src="/asset/space-optimized.gif">
-</[>
+<img src="/asset/space.webp" height="500px">
+</>
